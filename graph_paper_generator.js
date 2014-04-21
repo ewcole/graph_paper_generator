@@ -14,7 +14,8 @@ var GRAPH_PAPER_GENERATOR = (function ($) {
         var newWindow = window.open('', 'Graph');
         var svgDoc = newWindow.document;
         svgDoc.write('<svg width="' + graphSpec.width
-                     + '" height="' + graphSpec.height + '">');
+                     + '" height="' + graphSpec.height 
+                     + '" xmlns="http://www.w3.org/2000/svg">');
         svgDoc.write('</svg>');
         svgDoc.close();
         var svg = $(newWindow.document).find('svg');
