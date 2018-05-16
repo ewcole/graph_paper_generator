@@ -15,7 +15,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.1 "
-   sodipodi:docname="New document 1">
+   sodipodi:docname="HexGrid.svg">
   <defs
      id="defs4" />
   <sodipodi:namedview
@@ -25,9 +25,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.33"
-     inkscape:cx="880.59004"
-     inkscape:cy="444.60263"
+     inkscape:zoom="0.6909375"
+     inkscape:cx="181.77775"
+     inkscape:cy="324.1318"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -56,7 +56,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -73,7 +73,7 @@
        inkscape:tile-h="78.479649"
        inkscape:tile-x0="10.58232"
        inkscape:tile-y0="905.75409"
-       transform="translate(5.4879731,-900)">
+       transform="matrix(0.9999766,0,0,1,6.6179155,-891.01421)">
       <path
          inkscape:tile-y0="25.946441"
          inkscape:tile-x0="48.9403"
@@ -94,7 +94,7 @@
          sodipodi:cx="257.91046"
          sodipodi:sides="6"
          id="path2989"
-         style="opacity:0.51999996;fill:none;stroke:#4f4f4f;stroke-width:2;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         style="opacity:0.51999996;fill:none;stroke:#000000;stroke-width:2;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
          sodipodi:type="star" />
       <use
          id="use7489"
@@ -245,125 +245,161 @@
        y="0"
        inkscape:tiled-clone-of="#g7521"
        xlink:href="#g7521"
-       id="use7752" />
+       id="use7752"
+       width="765"
+       height="990" />
     <use
        x="0"
        y="0"
        inkscape:tiled-clone-of="#g7521"
        xlink:href="#g7521"
        transform="translate(0,52.322382)"
-       id="use7754" />
+       id="use7754"
+       width="765"
+       height="990" />
     <use
        x="0"
        y="0"
        inkscape:tiled-clone-of="#g7521"
        xlink:href="#g7521"
        transform="translate(0,104.64476)"
-       id="use7756" />
+       id="use7756"
+       width="765"
+       height="990" />
     <use
        x="0"
        y="0"
        inkscape:tiled-clone-of="#g7521"
        xlink:href="#g7521"
        transform="translate(0,156.96715)"
-       id="use7758" />
+       id="use7758"
+       width="765"
+       height="990" />
     <use
        x="0"
        y="0"
        inkscape:tiled-clone-of="#g7521"
        xlink:href="#g7521"
        transform="translate(0,209.28953)"
-       id="use7760" />
+       id="use7760"
+       width="765"
+       height="990" />
     <use
        x="0"
        y="0"
        inkscape:tiled-clone-of="#g7521"
        xlink:href="#g7521"
        transform="translate(0,261.61191)"
-       id="use7762" />
+       id="use7762"
+       width="765"
+       height="990" />
     <use
        x="0"
        y="0"
        inkscape:tiled-clone-of="#g7521"
        xlink:href="#g7521"
        transform="translate(0,313.93429)"
-       id="use7764" />
+       id="use7764"
+       width="765"
+       height="990" />
     <use
        x="0"
        y="0"
        inkscape:tiled-clone-of="#g7521"
        xlink:href="#g7521"
        transform="translate(0,366.25667)"
-       id="use7766" />
+       id="use7766"
+       width="765"
+       height="990" />
     <use
        x="0"
        y="0"
        inkscape:tiled-clone-of="#g7521"
        xlink:href="#g7521"
        transform="translate(0,418.57906)"
-       id="use7768" />
+       id="use7768"
+       width="765"
+       height="990" />
     <use
        x="0"
        y="0"
        inkscape:tiled-clone-of="#g7521"
        xlink:href="#g7521"
        transform="translate(0,470.90144)"
-       id="use7770" />
+       id="use7770"
+       width="765"
+       height="990" />
     <use
        x="0"
        y="0"
        inkscape:tiled-clone-of="#g7521"
        xlink:href="#g7521"
        transform="translate(0,523.22382)"
-       id="use7772" />
+       id="use7772"
+       width="765"
+       height="990" />
     <use
        x="0"
        y="0"
        inkscape:tiled-clone-of="#g7521"
        xlink:href="#g7521"
        transform="translate(0,575.5462)"
-       id="use7774" />
+       id="use7774"
+       width="765"
+       height="990" />
     <use
        x="0"
        y="0"
        inkscape:tiled-clone-of="#g7521"
        xlink:href="#g7521"
        transform="translate(0,627.86858)"
-       id="use7776" />
+       id="use7776"
+       width="765"
+       height="990" />
     <use
        x="0"
        y="0"
        inkscape:tiled-clone-of="#g7521"
        xlink:href="#g7521"
        transform="translate(0,680.19097)"
-       id="use7778" />
+       id="use7778"
+       width="765"
+       height="990" />
     <use
        x="0"
        y="0"
        inkscape:tiled-clone-of="#g7521"
        xlink:href="#g7521"
        transform="translate(0,732.51335)"
-       id="use7780" />
+       id="use7780"
+       width="765"
+       height="990" />
     <use
        x="0"
        y="0"
        inkscape:tiled-clone-of="#g7521"
        xlink:href="#g7521"
        transform="translate(0,784.83573)"
-       id="use7782" />
+       id="use7782"
+       width="765"
+       height="990" />
     <use
        x="0"
        y="0"
        inkscape:tiled-clone-of="#g7521"
        xlink:href="#g7521"
        transform="translate(0,837.15811)"
-       id="use7784" />
+       id="use7784"
+       width="765"
+       height="990" />
     <use
        x="0"
        y="0"
        inkscape:tiled-clone-of="#g7521"
        xlink:href="#g7521"
        transform="translate(0,889.48049)"
-       id="use7786" />
+       id="use7786"
+       width="765"
+       height="990" />
   </g>
 </svg>
